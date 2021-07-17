@@ -29,10 +29,10 @@ wind_speed)</li>
          <li>iii. Start with, ends with, contains, exact match in case of string column (e.g.
 timezone)</li>
        </ul>
-  <li>3. API 3 to export filtered data as CSV with selected columns of your choice (whichever
+     </ul>
+    <li>3. API 3 to export filtered data as CSV with selected columns of your choice (whichever
 columns make more sense to have in csv for lets say someone who wants to perform
 some analysis on it)</li>
-     </ul>
 </ul>
 
 
