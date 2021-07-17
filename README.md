@@ -5,7 +5,7 @@
 with metadata (e.g. current weather, hourly forecast for 48 hours, daily forecast for 7 days) for a
 particular latitude and longitude and create an MVT using Django and the Django REST
 Framework.
-The MVP should contain the following API endpoints:**
+The MVT should contain the following API endpoints:**
 <ul>
   <li>1. API 1 to trigger a weather search for a particular lat long. (e.g.
 lat=33.441792&lon=-94.037689 ).</li>
