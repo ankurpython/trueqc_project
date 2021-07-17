@@ -39,7 +39,7 @@ some analysis on it)</li>
 ## Steps to Run 
 1. Download or Clone the Repository:    **https://github.com/ankurpython/trueqc_project.git**
 2. Make sure to install requirements.txt file:  **https://github.com/ankurpython/trueqc_project/blob/master/weather/requirements.txt**
-* ```pip install -r requirments.txt```*
+* ```pip install -r requirments.txt```
    
 4. After all the installation complete use the django command to runserver:   ```py manage.py runserver```
 5. Open the browser: **http://localhost:8000**
