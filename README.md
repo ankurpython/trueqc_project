@@ -49,4 +49,25 @@ some analysis on it)</li>
 
 ### 1. **Base Page**
 
-![base_page](https://user-images.githubusercontent.com/48859058/126047142-48d5412f-7bdf-4047-9c8d-07b77db94311.png,"Base Page")
+![base_page](https://user-images.githubusercontent.com/48859058/126047142-48d5412f-7bdf-4047-9c8d-07b77db94311.png)
+
+
+### 2. **Weather Data Trigger with lat=33.441792&lon=-94.037689**
+
+![Trigger_search](https://user-images.githubusercontent.com/48859058/126047279-c2168f5a-2e42-40b1-a220-9b918e65bd71.png)
+
+
+### 3. **Weather Data Trigger with Dubai lat= 25.276987 & lon= 55.296249**
+
+![Dubai lat   lon weather data](https://user-images.githubusercontent.com/48859058/126047344-144e60e3-9717-4319-b2f8-577aab8a487f.png)
+
+
+### 4. **Filteration with temp__gt value**
+
+![filteration of gt](https://user-images.githubusercontent.com/48859058/126047383-74bb625d-d0b2-4643-a4fc-1a45c64eec9a.png)
+
+### 5. **Generate of CSV File**
+
+![weather_csv file](https://user-images.githubusercontent.com/48859058/126047404-c81e4ba4-9af8-4b68-a817-344e693ea873.png)
+
+## Thank You, If you have any query please feel free to reach.
