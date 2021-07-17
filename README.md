@@ -66,7 +66,7 @@ some analysis on it)</li>
 
 ![filteration of gt](https://user-images.githubusercontent.com/48859058/126047383-74bb625d-d0b2-4643-a4fc-1a45c64eec9a.png)
 
-### 5. **Generate of CSV File**
+### 5. **Result in CSV File**
 
 ![weather_csv file](https://user-images.githubusercontent.com/48859058/126047404-c81e4ba4-9af8-4b68-a817-344e693ea873.png)
 
