@@ -42,7 +42,8 @@ some analysis on it)</li>
 * ```pip install -r requirments.txt```
    
 4. After all the installation complete use the django command to runserver:   ```py manage.py runserver```
-5. Open the browser: **http://localhost:8000**
+5. Open the browser: 
+```http://localhost:8000```
 
 
 ## Screenshots
